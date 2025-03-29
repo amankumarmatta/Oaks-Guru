@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Oaks Guru.sln"
+    "dotnet.defaultSolution": "Oaks-Guru.sln"
 }
